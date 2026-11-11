@@ -1,0 +1,7 @@
+com\edu\co\sena\dao\estudianteDao.class
+com\edu\co\sena\config\text.class
+com\edu\co\sena\JakartaRestConfiguration.class
+com\edu\co\sena\modelo\estudiantes.class
+com\edu\co\sena\controlador\AprendizControlador.class
+com\edu\co\sena\resources\JakartaEE10Resource.class
+com\edu\co\sena\config\conexion.class
